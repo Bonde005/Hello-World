@@ -1,5 +1,5 @@
 # Hello-World
 My first repository
 
-Jeg er en sur kælling der er meget træt og lidt sulten
+Jeg kan godt lide tacos
 ja det er mig!
